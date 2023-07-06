@@ -20,10 +20,15 @@ and [Bootstrap](https://github.com/twbs/bootstrap)
 ## Installation
 
 Clone the project and install dependencies:
-```shell git clone https://github.com/malikgaurav626/todoVapor.git cd todoVapor npm install```
+```git clone https://github.com/malikgaurav626/todoVapor.git```
+``` cd todoVapor```
+``` npm install create-react-app```
 
 Then, you can start the application with:
-```shell npm start```
+```npm start```
+
+To build the app:
+```npm run build```
 
 ## Limitations
 
